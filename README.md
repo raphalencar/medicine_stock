@@ -1,5 +1,5 @@
 # Estoque dos medicamentos nas farmácias da Rede Municipal de Saúde do Recife
-Este projeto tem como propósito principal servir de base para estudo de séries temporais. Nele, utilizo os dados disponíveis em http://dados.recife.pe.gov.br/pt_BR/dataset/estoque-dos-medicamentos-nas-farmacias-da-rede-municipal-de-saude
+Este projeto tem como propósito principal servir de base para estudo de séries temporais. Nele, utilizo os dados disponíveis em: http://dados.recife.pe.gov.br/pt_BR/dataset/estoque-dos-medicamentos-nas-farmacias-da-rede-municipal-de-saude
 
 ## Descrição da base de dados
 Esse conjunto de dados apresenta o estoque de medicamentos disponíveis nas farmácias da rede municipal de saúde do Recife. São os medicamentos contidos na Relação Municipal de Medicamentos Essenciais (REMUME) e que são ofertados gratuitamente para a população recifense, conforme as diretrizes do SUS (Sistema Único de Saúde). A atualização do estoque dos medicamentos nas farmácias é realizada com frequência diária.
